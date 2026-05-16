@@ -1,0 +1,63 @@
+# Xcode
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Config
+*.xcconfig
+
+# Build artifacts
+build/
+*.o
+*.d
+*.LinkFileList
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# CocoaPods (if added later)
+Pods/
+Podfile.lock
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Carthage (if added later)
+Carthage/Build/
+Carthage/Checkouts/
+
+# Fastlane (if added later)
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# IDE
+.idea/
+*.swp
+*~
+
+# Environment / secrets
+*.env
+*.p8
+*.pem
+*.cer
+*.mobileprovision
+AuthKey_*.p8
+
+# AI
+.claude

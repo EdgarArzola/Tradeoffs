@@ -12,6 +12,10 @@ Once two are selected, the app tells you the tradeoff:
 - **Fast + Good** → Will be expensive
 - **Cheap + Fast** → Will be low quality
 
+## Demo
+
+https://github.com/user-attachments/assets/877088e5-9df0-4d86-b805-faab3447cb53
+
 ## Structure
 
 - `TradeoffsApp.swift` — app entry point
